@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "QuickReserve.Application/1.0.0": {
+        "dependencies": {
+          "QuickReserve.Domain": "1.0.0"
+        },
+        "runtime": {
+          "QuickReserve.Application.dll": {}
+        }
+      },
+      "QuickReserve.Domain/1.0.0": {
+        "runtime": {
+          "QuickReserve.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuickReserve.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuickReserve.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

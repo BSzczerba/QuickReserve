@@ -1,0 +1,15 @@
+C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve.Application\bin\Debug\net9.0\QuickReserve.Application.deps.json
+C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve.Application\bin\Debug\net9.0\QuickReserve.Application.dll
+C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve.Application\bin\Debug\net9.0\QuickReserve.Application.pdb
+C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve.Application\bin\Debug\net9.0\QuickReserve.Domain.dll
+C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve.Application\bin\Debug\net9.0\QuickReserve.Domain.pdb
+C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve.Application\obj\Debug\net9.0\QuickReserve.Application.csproj.AssemblyReference.cache
+C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve.Application\obj\Debug\net9.0\QuickReserve.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve.Application\obj\Debug\net9.0\QuickReserve.Application.AssemblyInfoInputs.cache
+C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve.Application\obj\Debug\net9.0\QuickReserve.Application.AssemblyInfo.cs
+C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve.Application\obj\Debug\net9.0\QuickReserve.Application.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve.Application\obj\Debug\net9.0\QuickRes.22F6FBA4.Up2Date
+C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve.Application\obj\Debug\net9.0\QuickReserve.Application.dll
+C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve.Application\obj\Debug\net9.0\refint\QuickReserve.Application.dll
+C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve.Application\obj\Debug\net9.0\QuickReserve.Application.pdb
+C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve.Application\obj\Debug\net9.0\ref\QuickReserve.Application.dll

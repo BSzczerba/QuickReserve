@@ -1,0 +1,11 @@
+C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve.Domain\bin\Debug\net9.0\QuickReserve.Domain.deps.json
+C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve.Domain\bin\Debug\net9.0\QuickReserve.Domain.dll
+C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve.Domain\bin\Debug\net9.0\QuickReserve.Domain.pdb
+C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve.Domain\obj\Debug\net9.0\QuickReserve.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve.Domain\obj\Debug\net9.0\QuickReserve.Domain.AssemblyInfoInputs.cache
+C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve.Domain\obj\Debug\net9.0\QuickReserve.Domain.AssemblyInfo.cs
+C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve.Domain\obj\Debug\net9.0\QuickReserve.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve.Domain\obj\Debug\net9.0\QuickReserve.Domain.dll
+C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve.Domain\obj\Debug\net9.0\refint\QuickReserve.Domain.dll
+C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve.Domain\obj\Debug\net9.0\QuickReserve.Domain.pdb
+C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve.Domain\obj\Debug\net9.0\ref\QuickReserve.Domain.dll
