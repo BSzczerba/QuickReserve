@@ -13,3 +13,4 @@ C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve.Application\obj\Deb
 C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve.Application\obj\Debug\net9.0\refint\QuickReserve.Application.dll
 C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve.Application\obj\Debug\net9.0\QuickReserve.Application.pdb
 C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve.Application\obj\Debug\net9.0\ref\QuickReserve.Application.dll
+C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve.Application\obj\Debug\net9.0\QuickReserve.Application.sourcelink.json
