@@ -3,28 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B7A8341-4129-489C-BB9C-F52827D13084}|QuickReserve.Infrastructure\\QuickReserve.Infrastructure.csproj|c:\\users\\bartek\\desktop\\c#\\wakacje\\quickreserve\\quickreserve.infrastructure\\seeders\\restaurantseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B7A8341-4129-489C-BB9C-F52827D13084}|QuickReserve.Infrastructure\\QuickReserve.Infrastructure.csproj|solutionrelative:quickreserve.infrastructure\\seeders\\restaurantseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46D75517-5D44-4EB4-BCDC-B2F01AF9A2F3}|QuickReserve.Application\\QuickReserve.Application.csproj|c:\\users\\bartek\\desktop\\c#\\wakacje\\quickreserve\\quickreserve.application\\services\\restaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D75517-5D44-4EB4-BCDC-B2F01AF9A2F3}|QuickReserve.Application\\QuickReserve.Application.csproj|solutionrelative:quickreserve.application\\services\\restaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D75517-5D44-4EB4-BCDC-B2F01AF9A2F3}|QuickReserve.Application\\QuickReserve.Application.csproj|c:\\users\\bartek\\desktop\\c#\\wakacje\\quickreserve\\quickreserve.application\\services\\interfaces\\irestaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D75517-5D44-4EB4-BCDC-B2F01AF9A2F3}|QuickReserve.Application\\QuickReserve.Application.csproj|solutionrelative:quickreserve.application\\services\\interfaces\\irestaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8398F3B9-A43E-4CA9-A031-EEB8D4C84BC4}|QuickReserve\\QuickReserve.Presentation.csproj|c:\\users\\bartek\\desktop\\c#\\wakacje\\quickreserve\\quickreserve\\controllers\\quickreservecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8398F3B9-A43E-4CA9-A031-EEB8D4C84BC4}|QuickReserve\\QuickReserve.Presentation.csproj|solutionrelative:quickreserve\\controllers\\quickreservecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8398F3B9-A43E-4CA9-A031-EEB8D4C84BC4}|QuickReserve\\QuickReserve.Presentation.csproj|c:\\users\\bartek\\desktop\\c#\\wakacje\\quickreserve\\quickreserve\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8398F3B9-A43E-4CA9-A031-EEB8D4C84BC4}|QuickReserve\\QuickReserve.Presentation.csproj|solutionrelative:quickreserve\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8398F3B9-A43E-4CA9-A031-EEB8D4C84BC4}|QuickReserve\\QuickReserve.Presentation.csproj|c:\\users\\bartek\\desktop\\c#\\wakacje\\quickreserve\\quickreserve\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8398F3B9-A43E-4CA9-A031-EEB8D4C84BC4}|QuickReserve\\QuickReserve.Presentation.csproj|solutionrelative:quickreserve\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8398F3B9-A43E-4CA9-A031-EEB8D4C84BC4}|QuickReserve\\QuickReserve.Presentation.csproj|c:\\users\\bartek\\desktop\\c#\\wakacje\\quickreserve\\quickreserve\\views\\quickreserve\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8398F3B9-A43E-4CA9-A031-EEB8D4C84BC4}|QuickReserve\\QuickReserve.Presentation.csproj|solutionrelative:quickreserve\\views\\quickreserve\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7A8341-4129-489C-BB9C-F52827D13084}|QuickReserve.Infrastructure\\QuickReserve.Infrastructure.csproj|c:\\users\\bartek\\desktop\\c#\\wakacje\\quickreserve\\quickreserve.infrastructure\\extensions\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7A8341-4129-489C-BB9C-F52827D13084}|QuickReserve.Infrastructure\\QuickReserve.Infrastructure.csproj|solutionrelative:quickreserve.infrastructure\\extensions\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8398F3B9-A43E-4CA9-A031-EEB8D4C84BC4}|QuickReserve\\QuickReserve.Presentation.csproj|c:\\users\\bartek\\desktop\\c#\\wakacje\\quickreserve\\quickreserve\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8398F3B9-A43E-4CA9-A031-EEB8D4C84BC4}|QuickReserve\\QuickReserve.Presentation.csproj|solutionrelative:quickreserve\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B7A8341-4129-489C-BB9C-F52827D13084}|QuickReserve.Infrastructure\\QuickReserve.Infrastructure.csproj|c:\\users\\bartek\\desktop\\c#\\wakacje\\quickreserve\\quickreserve.infrastructure\\extensions\\quickreserveextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B7A8341-4129-489C-BB9C-F52827D13084}|QuickReserve.Infrastructure\\QuickReserve.Infrastructure.csproj|solutionrelative:quickreserve.infrastructure\\extensions\\quickreserveextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46D75517-5D44-4EB4-BCDC-B2F01AF9A2F3}|QuickReserve.Application\\QuickReserve.Application.csproj|c:\\users\\bartek\\desktop\\c#\\wakacje\\quickreserve\\quickreserve.application\\extensions\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D75517-5D44-4EB4-BCDC-B2F01AF9A2F3}|QuickReserve.Application\\QuickReserve.Application.csproj|solutionrelative:quickreserve.application\\extensions\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D75517-5D44-4EB4-BCDC-B2F01AF9A2F3}|QuickReserve.Application\\QuickReserve.Application.csproj|c:\\users\\bartek\\desktop\\c#\\wakacje\\quickreserve\\quickreserve.application\\mappings\\quickreservemappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D75517-5D44-4EB4-BCDC-B2F01AF9A2F3}|QuickReserve.Application\\QuickReserve.Application.csproj|solutionrelative:quickreserve.application\\mappings\\quickreservemappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D75517-5D44-4EB4-BCDC-B2F01AF9A2F3}|QuickReserve.Application\\QuickReserve.Application.csproj|c:\\users\\bartek\\desktop\\c#\\wakacje\\quickreserve\\quickreserve.application\\quickreserve.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{46D75517-5D44-4EB4-BCDC-B2F01AF9A2F3}|QuickReserve.Application\\QuickReserve.Application.csproj|solutionrelative:quickreserve.application\\quickreserve.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB1ABDD-1286-444C-9B41-4F905BD3855A}|QuickReserve.Domain\\QuickReserve.Domain.csproj|c:\\users\\bartek\\desktop\\c#\\wakacje\\quickreserve\\quickreserve.domain\\interfaces\\irestaurantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB1ABDD-1286-444C-9B41-4F905BD3855A}|QuickReserve.Domain\\QuickReserve.Domain.csproj|solutionrelative:quickreserve.domain\\interfaces\\irestaurantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D75517-5D44-4EB4-BCDC-B2F01AF9A2F3}|QuickReserve.Application\\QuickReserve.Application.csproj|c:\\users\\bartek\\desktop\\c#\\wakacje\\quickreserve\\quickreserve.application\\dtos\\restaurantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D75517-5D44-4EB4-BCDC-B2F01AF9A2F3}|QuickReserve.Application\\QuickReserve.Application.csproj|solutionrelative:quickreserve.application\\dtos\\restaurantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB1ABDD-1286-444C-9B41-4F905BD3855A}|QuickReserve.Domain\\QuickReserve.Domain.csproj|c:\\users\\bartek\\desktop\\c#\\wakacje\\quickreserve\\quickreserve.domain\\entities\\restaurantcontancdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB1ABDD-1286-444C-9B41-4F905BD3855A}|QuickReserve.Domain\\QuickReserve.Domain.csproj|solutionrelative:quickreserve.domain\\entities\\restaurantcontancdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4CB1ABDD-1286-444C-9B41-4F905BD3855A}|QuickReserve.Domain\\QuickReserve.Domain.csproj|c:\\users\\bartek\\desktop\\c#\\wakacje\\quickreserve\\quickreserve.domain\\entities\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CB1ABDD-1286-444C-9B41-4F905BD3855A}|QuickReserve.Domain\\QuickReserve.Domain.csproj|solutionrelative:quickreserve.domain\\entities\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CB1ABDD-1286-444C-9B41-4F905BD3855A}|QuickReserve.Domain\\QuickReserve.Domain.csproj|c:\\users\\bartek\\desktop\\c#\\wakacje\\quickreserve\\quickreserve.domain\\entities\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CB1ABDD-1286-444C-9B41-4F905BD3855A}|QuickReserve.Domain\\QuickReserve.Domain.csproj|solutionrelative:quickreserve.domain\\entities\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B7A8341-4129-489C-BB9C-F52827D13084}|QuickReserve.Infrastructure\\QuickReserve.Infrastructure.csproj|c:\\users\\bartek\\desktop\\c#\\wakacje\\quickreserve\\quickreserve.infrastructure\\repositories\\restaurantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7A8341-4129-489C-BB9C-F52827D13084}|QuickReserve.Infrastructure\\QuickReserve.Infrastructure.csproj|solutionrelative:quickreserve.infrastructure\\repositories\\restaurantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8398F3B9-A43E-4CA9-A031-EEB8D4C84BC4}|QuickReserve\\QuickReserve.Presentation.csproj|c:\\users\\bartek\\desktop\\c#\\wakacje\\quickreserve\\quickreserve\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8398F3B9-A43E-4CA9-A031-EEB8D4C84BC4}|QuickReserve\\QuickReserve.Presentation.csproj|solutionrelative:quickreserve\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B7A8341-4129-489C-BB9C-F52827D13084}|QuickReserve.Infrastructure\\QuickReserve.Infrastructure.csproj|c:\\users\\bartek\\desktop\\c#\\wakacje\\quickreserve\\quickreserve.infrastructure\\quickreserve.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7B7A8341-4129-489C-BB9C-F52827D13084}|QuickReserve.Infrastructure\\QuickReserve.Infrastructure.csproj|solutionrelative:quickreserve.infrastructure\\quickreserve.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7A8341-4129-489C-BB9C-F52827D13084}|QuickReserve.Infrastructure\\QuickReserve.Infrastructure.csproj|c:\\users\\bartek\\desktop\\c#\\wakacje\\quickreserve\\quickreserve.infrastructure\\seeders\\restaurantseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7A8341-4129-489C-BB9C-F52827D13084}|QuickReserve.Infrastructure\\QuickReserve.Infrastructure.csproj|solutionrelative:quickreserve.infrastructure\\seeders\\restaurantseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB1ABDD-1286-444C-9B41-4F905BD3855A}|QuickReserve.Domain\\QuickReserve.Domain.csproj|c:\\users\\bartek\\desktop\\c#\\wakacje\\quickreserve\\quickreserve.domain\\entities\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB1ABDD-1286-444C-9B41-4F905BD3855A}|QuickReserve.Domain\\QuickReserve.Domain.csproj|solutionrelative:quickreserve.domain\\entities\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8398F3B9-A43E-4CA9-A031-EEB8D4C84BC4}|QuickReserve\\QuickReserve.Presentation.csproj|c:\\users\\bartek\\desktop\\c#\\wakacje\\quickreserve\\quickreserve\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -35,20 +87,8 @@
       "RelativeMoniker": "D:0:0:{7B7A8341-4129-489C-BB9C-F52827D13084}|QuickReserve.Infrastructure\\QuickReserve.Infrastructure.csproj|solutionrelative:quickreserve.infrastructure\\persistence\\quickreservedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CB1ABDD-1286-444C-9B41-4F905BD3855A}|QuickReserve.Domain\\QuickReserve.Domain.csproj|c:\\users\\bartek\\desktop\\c#\\wakacje\\quickreserve\\quickreserve.domain\\entities\\restaurantcontancdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CB1ABDD-1286-444C-9B41-4F905BD3855A}|QuickReserve.Domain\\QuickReserve.Domain.csproj|solutionrelative:quickreserve.domain\\entities\\restaurantcontancdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B7A8341-4129-489C-BB9C-F52827D13084}|QuickReserve.Infrastructure\\QuickReserve.Infrastructure.csproj|c:\\users\\bartek\\desktop\\c#\\wakacje\\quickreserve\\quickreserve.infrastructure\\quickreserve.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7B7A8341-4129-489C-BB9C-F52827D13084}|QuickReserve.Infrastructure\\QuickReserve.Infrastructure.csproj|solutionrelative:quickreserve.infrastructure\\quickreserve.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8398F3B9-A43E-4CA9-A031-EEB8D4C84BC4}|QuickReserve\\QuickReserve.Presentation.csproj|c:\\users\\bartek\\desktop\\c#\\wakacje\\quickreserve\\quickreserve\\quickreserve.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{8398F3B9-A43E-4CA9-A031-EEB8D4C84BC4}|QuickReserve\\QuickReserve.Presentation.csproj|solutionrelative:quickreserve\\quickreserve.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46D75517-5D44-4EB4-BCDC-B2F01AF9A2F3}|QuickReserve.Application\\QuickReserve.Application.csproj|c:\\users\\bartek\\desktop\\c#\\wakacje\\quickreserve\\quickreserve.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46D75517-5D44-4EB4-BCDC-B2F01AF9A2F3}|QuickReserve.Application\\QuickReserve.Application.csproj|solutionrelative:quickreserve.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,11 +98,154 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "QuickReserve\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "QuickReserve\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T18:39:25.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve\\Views\\QuickReserve\\Index.cshtml",
+              "RelativeDocumentMoniker": "QuickReserve\\Views\\QuickReserve\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve\\Views\\QuickReserve\\Index.cshtml",
+              "RelativeToolTip": "QuickReserve\\Views\\QuickReserve\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T18:38:37.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceCollectionExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Application\\Extensions\\ServiceCollectionExtension.cs",
+              "RelativeDocumentMoniker": "QuickReserve.Application\\Extensions\\ServiceCollectionExtension.cs",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Application\\Extensions\\ServiceCollectionExtension.cs",
+              "RelativeToolTip": "QuickReserve.Application\\Extensions\\ServiceCollectionExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T16:52:08.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRestaurantService.cs",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Application\\Services\\Interfaces\\IRestaurantService.cs",
+              "RelativeDocumentMoniker": "QuickReserve.Application\\Services\\Interfaces\\IRestaurantService.cs",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Application\\Services\\Interfaces\\IRestaurantService.cs",
+              "RelativeToolTip": "QuickReserve.Application\\Services\\Interfaces\\IRestaurantService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T16:44:29.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuickReserveMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Application\\Mappings\\QuickReserveMappingProfile.cs",
+              "RelativeDocumentMoniker": "QuickReserve.Application\\Mappings\\QuickReserveMappingProfile.cs",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Application\\Mappings\\QuickReserveMappingProfile.cs",
+              "RelativeToolTip": "QuickReserve.Application\\Mappings\\QuickReserveMappingProfile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T16:36:40.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RestaurantService.cs",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Application\\Services\\RestaurantService.cs",
+              "RelativeDocumentMoniker": "QuickReserve.Application\\Services\\RestaurantService.cs",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Application\\Services\\RestaurantService.cs",
+              "RelativeToolTip": "QuickReserve.Application\\Services\\RestaurantService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T16:30:23.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RestaurantDto.cs",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Application\\Dtos\\RestaurantDto.cs",
+              "RelativeDocumentMoniker": "QuickReserve.Application\\Dtos\\RestaurantDto.cs",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Application\\Dtos\\RestaurantDto.cs",
+              "RelativeToolTip": "QuickReserve.Application\\Dtos\\RestaurantDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T16:27:21.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QuickReserve.Application",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Application\\QuickReserve.Application.csproj",
+              "RelativeDocumentMoniker": "QuickReserve.Application\\QuickReserve.Application.csproj",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Application\\QuickReserve.Application.csproj",
+              "RelativeToolTip": "QuickReserve.Application\\QuickReserve.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-02T16:26:26.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RestaurantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Infrastructure\\Repositories\\RestaurantRepository.cs",
+              "RelativeDocumentMoniker": "QuickReserve.Infrastructure\\Repositories\\RestaurantRepository.cs",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Infrastructure\\Repositories\\RestaurantRepository.cs",
+              "RelativeToolTip": "QuickReserve.Infrastructure\\Repositories\\RestaurantRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T16:21:38.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRestaurantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Domain\\Interfaces\\IRestaurantRepository.cs",
+              "RelativeDocumentMoniker": "QuickReserve.Domain\\Interfaces\\IRestaurantRepository.cs",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Domain\\Interfaces\\IRestaurantRepository.cs",
+              "RelativeToolTip": "QuickReserve.Domain\\Interfaces\\IRestaurantRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T16:18:44.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuickReserveController.cs",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve\\Controllers\\QuickReserveController.cs",
+              "RelativeDocumentMoniker": "QuickReserve\\Controllers\\QuickReserveController.cs",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve\\Controllers\\QuickReserveController.cs",
+              "RelativeToolTip": "QuickReserve\\Controllers\\QuickReserveController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T16:14:04.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "RestaurantSeeder.cs",
               "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Infrastructure\\Seeders\\RestaurantSeeder.cs",
               "RelativeDocumentMoniker": "QuickReserve.Infrastructure\\Seeders\\RestaurantSeeder.cs",
@@ -75,117 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve\\appsettings.json",
-              "RelativeDocumentMoniker": "QuickReserve\\appsettings.json",
-              "ToolTip": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve\\appsettings.json",
-              "RelativeToolTip": "QuickReserve\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-28T19:33:00.272Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "QuickReserveExtension.cs",
-              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Infrastructure\\Extensions\\QuickReserveExtension.cs",
-              "RelativeDocumentMoniker": "QuickReserve.Infrastructure\\Extensions\\QuickReserveExtension.cs",
-              "ToolTip": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Infrastructure\\Extensions\\QuickReserveExtension.cs",
-              "RelativeToolTip": "QuickReserve.Infrastructure\\Extensions\\QuickReserveExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T19:24:14.031Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "QuickReserveDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Infrastructure\\Persistence\\QuickReserveDbContext.cs",
-              "RelativeDocumentMoniker": "QuickReserve.Infrastructure\\Persistence\\QuickReserveDbContext.cs",
-              "ToolTip": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Infrastructure\\Persistence\\QuickReserveDbContext.cs",
-              "RelativeToolTip": "QuickReserve.Infrastructure\\Persistence\\QuickReserveDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T19:07:47.23Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "QuickReserve.Infrastructure.csproj",
-              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Infrastructure\\QuickReserve.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "QuickReserve.Infrastructure\\QuickReserve.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Infrastructure\\QuickReserve.Infrastructure.csproj",
-              "RelativeToolTip": "QuickReserve.Infrastructure\\QuickReserve.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-28T19:06:46.195Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Dish.cs",
-              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Domain\\Entities\\Dish.cs",
-              "RelativeDocumentMoniker": "QuickReserve.Domain\\Entities\\Dish.cs",
-              "ToolTip": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Domain\\Entities\\Dish.cs",
-              "RelativeToolTip": "QuickReserve.Domain\\Entities\\Dish.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T18:45:39.69Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RestaurantContancDetails.cs",
-              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Domain\\Entities\\RestaurantContancDetails.cs",
-              "RelativeDocumentMoniker": "QuickReserve.Domain\\Entities\\RestaurantContancDetails.cs",
-              "ToolTip": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Domain\\Entities\\RestaurantContancDetails.cs",
-              "RelativeToolTip": "QuickReserve.Domain\\Entities\\RestaurantContancDetails.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T20:22:38.036Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Restaurant.cs",
-              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Domain\\Entities\\Restaurant.cs",
-              "RelativeDocumentMoniker": "QuickReserve.Domain\\Entities\\Restaurant.cs",
-              "ToolTip": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Domain\\Entities\\Restaurant.cs",
-              "RelativeToolTip": "QuickReserve.Domain\\Entities\\Restaurant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T20:20:19.017Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "QuickReserve.Presentation.csproj",
-              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve\\QuickReserve.Presentation.csproj",
-              "RelativeDocumentMoniker": "QuickReserve\\QuickReserve.Presentation.csproj",
-              "ToolTip": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve\\QuickReserve.Presentation.csproj",
-              "RelativeToolTip": "QuickReserve\\QuickReserve.Presentation.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-27T19:55:42.556Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Application\\Class1.cs",
-              "RelativeDocumentMoniker": "QuickReserve.Application\\Class1.cs",
-              "ToolTip": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Application\\Class1.cs",
-              "RelativeToolTip": "QuickReserve.Application\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T19:50:15.35Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "QuickReserve\\Controllers\\HomeController.cs",
@@ -193,19 +266,124 @@
               "RelativeToolTip": "QuickReserve\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T16:34:18.351Z"
+              "WhenOpened": "2025-01-27T16:34:18.351Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "ServiceCollectionExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Infrastructure\\Extensions\\ServiceCollectionExtension.cs",
+              "RelativeDocumentMoniker": "QuickReserve.Infrastructure\\Extensions\\ServiceCollectionExtension.cs",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Infrastructure\\Extensions\\ServiceCollectionExtension.cs",
+              "RelativeToolTip": "QuickReserve.Infrastructure\\Extensions\\ServiceCollectionExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T19:24:14.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve\\Program.cs",
               "RelativeDocumentMoniker": "QuickReserve\\Program.cs",
               "ToolTip": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve\\Program.cs",
               "RelativeToolTip": "QuickReserve\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T16:33:41.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve\\appsettings.json",
+              "RelativeDocumentMoniker": "QuickReserve\\appsettings.json",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve\\appsettings.json",
+              "RelativeToolTip": "QuickReserve\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-28T19:33:00.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "QuickReserveDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Infrastructure\\Persistence\\QuickReserveDbContext.cs",
+              "RelativeDocumentMoniker": "QuickReserve.Infrastructure\\Persistence\\QuickReserveDbContext.cs",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Infrastructure\\Persistence\\QuickReserveDbContext.cs",
+              "RelativeToolTip": "QuickReserve.Infrastructure\\Persistence\\QuickReserveDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T19:07:47.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "QuickReserve.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Infrastructure\\QuickReserve.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "QuickReserve.Infrastructure\\QuickReserve.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Infrastructure\\QuickReserve.Infrastructure.csproj",
+              "RelativeToolTip": "QuickReserve.Infrastructure\\QuickReserve.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-28T19:06:46.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Domain\\Entities\\Dish.cs",
+              "RelativeDocumentMoniker": "QuickReserve.Domain\\Entities\\Dish.cs",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Domain\\Entities\\Dish.cs",
+              "RelativeToolTip": "QuickReserve.Domain\\Entities\\Dish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T18:45:39.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RestaurantContancDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Domain\\Entities\\RestaurantContancDetails.cs",
+              "RelativeDocumentMoniker": "QuickReserve.Domain\\Entities\\RestaurantContancDetails.cs",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Domain\\Entities\\RestaurantContancDetails.cs",
+              "RelativeToolTip": "QuickReserve.Domain\\Entities\\RestaurantContancDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T20:22:38.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Domain\\Entities\\Restaurant.cs",
+              "RelativeDocumentMoniker": "QuickReserve.Domain\\Entities\\Restaurant.cs",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve.Domain\\Entities\\Restaurant.cs",
+              "RelativeToolTip": "QuickReserve.Domain\\Entities\\Restaurant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T20:20:19.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "QuickReserve.Presentation.csproj",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve\\QuickReserve.Presentation.csproj",
+              "RelativeDocumentMoniker": "QuickReserve\\QuickReserve.Presentation.csproj",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve\\QuickReserve.Presentation.csproj",
+              "RelativeToolTip": "QuickReserve\\QuickReserve.Presentation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-27T19:55:42.556Z",
               "EditorCaption": ""
             }
           ]
