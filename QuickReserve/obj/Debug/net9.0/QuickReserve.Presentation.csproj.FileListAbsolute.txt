@@ -49,9 +49,7 @@ C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve\obj\Debug\net9.0\co
 C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve\obj\Debug\net9.0\compressed\vmnex577hx-j5mq2jizvt.gz
 C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve\obj\Debug\net9.0\compressed\mec9l05eev-06098lyss8.gz
 C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve\obj\Debug\net9.0\compressed\d3hlrczt54-nvvlpmu67g.gz
-C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve\obj\Debug\net9.0\compressed\bpir9swpfl-s35ty4nyc5.gz
 C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve\obj\Debug\net9.0\compressed\joqip299pf-pj5nd1wqec.gz
-C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve\obj\Debug\net9.0\compressed\vdrn662m9v-46ein0sx1k.gz
 C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve\obj\Debug\net9.0\compressed\qwlxg6cyup-v0zj4ognzu.gz
 C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve\obj\Debug\net9.0\compressed\44157u3msx-37tfw0ft22.gz
 C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve\obj\Debug\net9.0\compressed\1agar6hw4p-hrwsygsryq.gz
@@ -336,3 +334,5 @@ C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve\bin\Debug\net9.0\ru
 C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve\obj\Debug\net9.0\compressed\bpir9swpfl-xcntcb1nvg.gz
+C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve\obj\Debug\net9.0\compressed\vdrn662m9v-3839uow2c4.gz

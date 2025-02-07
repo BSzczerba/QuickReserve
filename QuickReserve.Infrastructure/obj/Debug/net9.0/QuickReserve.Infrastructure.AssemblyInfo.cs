@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuickReserve.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1785166118911e0953d431456d28e00af9241b68")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+096ddb0469f4acb6ead921aaf136b084c4f0676f")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuickReserve.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuickReserve.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
