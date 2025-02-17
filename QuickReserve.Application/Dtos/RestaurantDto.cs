@@ -11,10 +11,10 @@ namespace QuickReserve.Application.Dtos
         public string Name { get; set; }
         public string? Description { get; set; }
         public string? TypeOfRestaurant { get; set; }
-        public bool? DoesItDeliver { get; set; }
         public string? PhoneNumber { get; set; }
         public string? Street { get; set; }
         public string? City { get; set; }
         public string? PostalCode { get; set; }
+        public string? EncodedName { get; set; }
     }
 }

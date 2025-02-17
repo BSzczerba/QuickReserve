@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using QuickReserve.Infrastructure.Persistence;
 
@@ -10,9 +11,11 @@ using QuickReserve.Infrastructure.Persistence;
 namespace QuickReserve.Infrastructure.Migrations
 {
     [DbContext(typeof(QuickReserveDbContext))]
-    partial class QuickReserveDbContextModelSnapshot : ModelSnapshot
+    [Migration("20250214155959_001")]
+    partial class _001
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

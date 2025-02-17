@@ -4,7 +4,7 @@ namespace QuickReserve.Domain.Interfaces
 {
     public interface IRestaurantRepository
     {
-        Task<Restaurant?> GetByName(string name);
+        Task<Restaurant?> GetByEncodedName(string encodedName);
         Task<IEnumerable<Restaurant>> GetAll();
     }
 }

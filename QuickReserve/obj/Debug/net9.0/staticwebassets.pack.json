@@ -257,6 +257,10 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
+      "Id": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve\\wwwroot\\uploads\\default.png",
+      "PackagePath": "staticwebassets\\uploads\\default.png"
+    },
+    {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.QuickReserve.Presentation.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },

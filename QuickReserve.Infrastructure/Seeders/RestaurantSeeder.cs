@@ -26,7 +26,6 @@ namespace QuickReserve.Infrastructure.Seeders
                         " and most recognized fast-food chains, known for its hamburgers, french fries," +
                         " and name-brand sandwiches such as the Big Mac, Quarter Pounder, and Egg McMuffin, as well as the child-focused Happy Meal.",
                         TypeOfRestaurant = "Fast food",
-                        DoesItDeliver = true,
                         ContancDetails = new()
                         {
                             City = "Warsaw",
@@ -41,7 +40,6 @@ namespace QuickReserve.Infrastructure.Seeders
                         " known for their fried chicken. It was started by Colonel Sanders in Corbin, Kentucky in 1952. They are now" +
                         " all over the world. They not only sell chicken, but also other food like salads and french fries.",
                         TypeOfRestaurant = "Fast food",
-                        DoesItDeliver = true,
                         ContancDetails = new()
                         {
                             City = "Warsaw",
@@ -57,7 +55,6 @@ namespace QuickReserve.Infrastructure.Seeders
                         " also offers lunch from Monday to Friday from 12:00 to 16:00. Due to the variety of dishes served and the form of service, Lily's" +
                         " Bistro is not classified as fast food.\r\n\r\n",
                         TypeOfRestaurant = "Casual dining",
-                        DoesItDeliver = false,
                         ContancDetails = new()
                         {
                             City = "Warsaw",
@@ -68,6 +65,7 @@ namespace QuickReserve.Infrastructure.Seeders
                         }
                     };
 
+                    restaurants.ForEach(restaurant => restaurant.EncodeName());
                     _dbContext.Restaurants.AddRange(restaurants);
                     await _dbContext.SaveChangesAsync();
                 }

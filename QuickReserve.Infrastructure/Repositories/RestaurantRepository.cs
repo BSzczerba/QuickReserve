@@ -17,8 +17,8 @@ namespace QuickReserve.Infrastructure.Repositories
         public async Task<IEnumerable<Restaurant>> GetAll()
         => await dbContext.Restaurants.ToListAsync();
 
-        public async Task<Restaurant?> GetByName(string name)
-        => await dbContext.Restaurants.FirstOrDefaultAsync(r => r.Name.ToLower() == name.ToLower());
+        public async Task<Restaurant?> GetByEncodedName(string encodedName)
+        => await dbContext.Restaurants.FirstOrDefaultAsync(r => r.EncodedName == encodedName);
 
     }
 }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "B0+92t+rzWRn4UxmweDxO7Wcfs3nao45WXlHnGwpWXQ=",
+  "Hash": "R6sUMG31hZW6Qw0095AoEJp2L4W8llqaEDdeZ2OFBGw=",
   "Source": "QuickReserve.Presentation",
   "BasePath": "_content/QuickReserve.Presentation",
   "Mode": "Default",
@@ -2724,6 +2724,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve\\wwwroot\\uploads\\default.png",
+      "SourceId": "QuickReserve.Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve\\wwwroot\\",
+      "BasePath": "_content/QuickReserve.Presentation",
+      "RelativePath": "uploads/default#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gefqf5rs38",
+      "Integrity": "eCOB9y6RpoYOnyHAekVyreFFczAeoOswXWIkVeCyqGA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\default.png"
     }
   ],
   "Endpoints": [
@@ -21878,6 +21899,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-PS+BnwEwPWj76Ur+m0uGXWY4X3qwwRiT2M+s8K3Slwk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/default.gefqf5rs38.png",
+      "AssetFile": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve\\wwwroot\\uploads\\default.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2347128"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eCOB9y6RpoYOnyHAekVyreFFczAeoOswXWIkVeCyqGA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 19:09:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gefqf5rs38"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/default.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eCOB9y6RpoYOnyHAekVyreFFczAeoOswXWIkVeCyqGA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/default.png",
+      "AssetFile": "C:\\Users\\Bartek\\Desktop\\C#\\Wakacje\\QuickReserve\\QuickReserve\\wwwroot\\uploads\\default.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2347128"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eCOB9y6RpoYOnyHAekVyreFFczAeoOswXWIkVeCyqGA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 19:09:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eCOB9y6RpoYOnyHAekVyreFFczAeoOswXWIkVeCyqGA="
         }
       ]
     }

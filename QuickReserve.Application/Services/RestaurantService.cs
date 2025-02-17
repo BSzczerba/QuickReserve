@@ -26,9 +26,9 @@ namespace QuickReserve.Application.Services
             return dtos;
         }
 
-        public async Task<RestaurantDto> GetByName(string name)
+        public async Task<RestaurantDto> GetByEncodedName(string encodedName)
         {
-            var restaurant = await restaurantRepository.GetByName(name);
+            var restaurant = await restaurantRepository.GetByEncodedName(encodedName);
 
             if (restaurant == null)
             {
