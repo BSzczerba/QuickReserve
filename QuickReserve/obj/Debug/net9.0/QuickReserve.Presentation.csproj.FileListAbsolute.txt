@@ -336,3 +336,6 @@ C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve\bin\Debug\net9.0\zh
 C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve\obj\Debug\net9.0\compressed\bpir9swpfl-xcntcb1nvg.gz
 C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve\obj\Debug\net9.0\compressed\vdrn662m9v-3839uow2c4.gz
+C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve\obj\Debug\net9.0\QuickReserve.Presentation.MvcApplicationPartsAssemblyInfo.cs

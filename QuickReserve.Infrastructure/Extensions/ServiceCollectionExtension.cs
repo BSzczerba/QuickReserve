@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using QuickReserve.Domain.Interfaces;
@@ -14,6 +15,10 @@ namespace QuickReserve.Infrastructure.Extensions
         {
             services.AddDbContext<QuickReserveDbContext>(options => options.UseSqlServer(
     configuration.GetConnectionString("ComputerService")));
+
+            services.AddDefaultIdentity<IdentityUser>()
+                .AddRoles<IdentityRole>()
+                .AddEntityFrameworkStores<QuickReserveDbContext>();
 
             services.AddScoped<RestaurantSeeder>();
 

@@ -10,3 +10,4 @@ C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve.Domain\obj\Debug\ne
 C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve.Domain\obj\Debug\net9.0\QuickReserve.Domain.pdb
 C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve.Domain\obj\Debug\net9.0\ref\QuickReserve.Domain.dll
 C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve.Domain\obj\Debug\net9.0\QuickReserve.Domain.sourcelink.json
+C:\Users\Bartek\Desktop\C#\Wakacje\QuickReserve\QuickReserve.Domain\obj\Debug\net9.0\QuickReserve.Domain.csproj.AssemblyReference.cache
